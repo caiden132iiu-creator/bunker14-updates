@@ -40,7 +40,7 @@ Bunker14 contains violence and online chat and is not directed at children under
 
 ## Your choices
 
-- Play **solo** (1 player) to send nothing except the "last seen" record and the update check.
+- Play **solo** (1 player) to skip voice, chat and game data entirely. Solo still sends the "last seen" record, your online presence for friends, and the update check.
 - To have your "last seen" record and any reports about you deleted, post a request on the game page (wold3n.itch.io/bunker14) with your friend code (shown next to your name on the main menu), and it will be removed.
 
 ## Contact
